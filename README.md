@@ -2,6 +2,8 @@
 
 Extract the links from a given sitemap xml file.
 
+![cover](./README.assets/cover.webp)
+
 ## usecases
 
 1. sites analysis
