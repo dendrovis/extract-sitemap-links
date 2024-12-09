@@ -1,6 +1,5 @@
 # output directories
 output
 
-
-
-
+# localised files
+.DS_Store
